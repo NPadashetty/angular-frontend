@@ -1,4 +1,4 @@
-// employee-list.component.ts
+
 
 import { Component, OnInit } from '@angular/core';
 import { Employee } from '../employee';
